@@ -19,7 +19,7 @@
           <key>needs-shine</key>
           <true/>
           <key>url</key>
-          <string>https://github.com/codefan-fan/ios/raw/master/Marketicon.png</string>
+          <string>https://raw.githubusercontent.com/codefan-fan/ios/master/Marketicon.png</string>
         </dict>
 
         <dict>
@@ -28,7 +28,7 @@
           <key>needs-shine</key>
           <true/>
           <key>url</key>
-          <string>https://github.com/codefan-fan/ios/raw/master/Marketicon.png</string>
+          <string>https://raw.githubusercontent.com/codefan-fan/ios/master/Marketicon.png</string>
         </dict>
 			</array>
 			<key>metadata</key>
